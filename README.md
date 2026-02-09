@@ -5,7 +5,7 @@
 
 ## Additional Reflection Questions
  - What was your **overall approach** to tackling this project?
-* Our approach was to build a story-driven, modular hotel simulation game using Java’s object-oriented features. Before we started brainstorming, we had a lot of conversations about games we have played in the past such as "Cooking Fever" and "Diner Dash". Taking inspiration from these games, we established our game based off of similar ideas. 
+-- Our approach was to build a story-driven, modular hotel simulation game using Java’s object-oriented features. Before we started brainstorming, we had a lot of conversations about games we have played in the past such as "Cooking Fever" and "Diner Dash". Taking inspiration from these games, we established our game based off of similar ideas. 
 We began by identifying the key entities—Guests, Rooms, HotelBuilding, Player, and Tasks—and modeled them as classes. From there, we created realistic guest profiles with rich backstories to bring humor and tension into the game. Our main game loop focuses on guest arrivals, room assignments, task mini-games, and dynamic checkouts to create an engaging management experience.
 
 - What **new thing(s)** did you learn / figure out in completing this project?
